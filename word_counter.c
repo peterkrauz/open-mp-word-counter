@@ -1,6 +1,7 @@
 #include "deps.h"
 
-char the_raven[] = "    Once upon a midnight dreary, while I pondered, weak and weary,\n\
+char the_raven[] = "    \n\
+                        Once upon a midnight dreary, while I pondered, weak and weary,\n\
                         Over many a quaint and curious volume of forgotten lore—\n\
                         While I nodded, nearly napping, suddenly there came a tapping,\n\
                         As of some one gently rapping, rapping at my chamber door.\n\
@@ -130,5 +131,42 @@ char the_raven[] = "    Once upon a midnight dreary, while I pondered, weak and 
 int main(int argc, char *argv[]) {
   printf("Peter Krause's \033[1;31mWord Counter\033[0m\n");
 
+  char words_to_search[50][50]  = {};
+  if (argc > 1) {
+    for (int i = 0; i < argc - 1; i++) {
+      strcpy(words_to_search[i], argv[i + 1]);
+    }
+  }
+
+  printf("Words that'll be searched:\n");
+  for (size_t i = 1; i < argc; i++) {
+    printf("\033[1;36m%s\033[0m\n", argv[i]);
+  }
+
+  // Build array of lines
+  int line_count = 0;
+  char lines[200][200] = {};
+  char * token = strtok(the_raven, "\n");
+
+  while(token != NULL) {
+    strcpy(lines[line_count], token);
+    token = strtok(NULL, "\n");
+    line_count++;
+  }
+
+  for (int i = 0; i < line_count; i++) {
+    char * current_line = lines[i];
+    printf("Line being searched: %s\n", current_line);
+    for (int k = 0; k < argc -1; k++) {
+      char * word_to_search = words_to_search[k];
+      printf("\tScanning line for: %s\n", word_to_search);
+      char * substring_result = strstr(current_line, word_to_search);
+      printf("\t\tSubstring result: %s\n", substring_result);
+      if (substring_result != NULL) {
+        printf("\t\t\tOccurrence of word: %s\n", words_to_search[k]);
+      }
+    }
+    printf("\n\n");
+  }
   return 0;
 }
