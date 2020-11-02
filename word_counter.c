@@ -3,7 +3,7 @@
 
 
 int main(int argc, char *argv[]) {
-  printf("Peter Krause's \033[1;31mWord Counter\033[0m\n");
+  printf("\033[1;31mWord Counter\033[0m\n");
 
   char words_to_search[50][50]  = {};
   int words_occurrences[50] = {};
@@ -49,7 +49,6 @@ int main(int argc, char *argv[]) {
     }
   }
 
-  sleep(1);
   printf("Searched words found:\n");
   for (int i = 0; i < amount_of_words_to_search; i++) {
     char * word_searched = words_to_search[i];

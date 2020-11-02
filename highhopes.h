@@ -1,0 +1,1 @@
+char high_hopes[] = "";
