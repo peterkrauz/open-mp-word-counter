@@ -35,9 +35,9 @@ $ gcc word_counter.c -o <nome_do_output>
 ```
 Para rodá-lo com palavras-chave, digite:
 ```
-$ ./<nome_do_output> tapping napping lenore
+$ ./<nome_do_output> lama guru tibet
 ```
-O número de palavras-chave (`tapping`, `napping`, `lenore`) não possui limites, portanto cabe ao usuário decidir quantas palavras deseja procurar.
+O número de palavras-chave (`lama`, `guru`, `tibet`) não possui limites, portanto cabe ao usuário decidir quantas palavras deseja procurar.
 
 ### Versão Paralela
 Em um terminal qualquer, digite o seguinte trecho para compilar o programa:
@@ -46,6 +46,6 @@ $ gcc-7 -fopenmp word_counter.c -o <nome_do_output> -pthread
 ```
 Para rodá-lo com palavras-chave, digite:
 ```
-$ ./<nome_do_output> 10 tapping napping lenore
+$ ./<nome_do_output> 10 lama guru tibet
 ```
-O primeiro argumento (`10`) equivale ao número de seções paralelas desejadas, enquanto que todos os argumento subsequentes (`tapping`, `napping`, `lenore`) são as palavras-chave que o usuário deseja procurar.
+O primeiro argumento (`10`) equivale ao número de seções paralelas desejadas, enquanto que todos os argumento subsequentes (`lama`, `guru`, `tibet`) são as palavras-chave que o usuário deseja procurar.
