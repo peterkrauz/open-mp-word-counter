@@ -9,6 +9,7 @@
 #include <sys/time.h>
 #include <ctype.h>
 #include "word_entry.c"
+#include "texts.h"
 
 char* toLower(char* s) {
   for(char *p=s; *p; p++) *p=tolower(*p);

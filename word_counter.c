@@ -1,12 +1,13 @@
 #include "deps.h"
-#include "texts.h"
+
+struct timeval start_time, end_time;
 
 
 int main(int argc, char *argv[]) {
   printf("\033[1;31mWord Counter\033[0m\n");
 
-  char words_to_search[50][50]  = {};
-  int words_occurrences[50] = {};
+  char words_to_search[25][25]  = {};
+  int words_occurrences[25] = {};
   int amount_of_words_to_search = argc - 1;
   if (argc > 1) {
     for (int i = 0; i < amount_of_words_to_search; i++) {
@@ -24,13 +25,13 @@ int main(int argc, char *argv[]) {
   int line_count = 0;
   char lines[200][200] = {};
   char * line = strtok(the_raven, "\n");
-
   while(line != NULL) {
     strcpy(lines[line_count], line);
     line = strtok(NULL, "\n");
     line_count++;
   }
 
+  gettimeofday(&start_time, NULL);
   // Iterate through each line
   for (int i = 0; i < line_count; i++) {
     char * current_line = lines[i];
@@ -48,6 +49,11 @@ int main(int argc, char *argv[]) {
       }
     }
   }
+  gettimeofday(&end_time, NULL);
+  double seconds_spent = end_time.tv_sec - start_time.tv_sec;
+  double milliseconds_spent =  (end_time.tv_usec - start_time.tv_usec)/1000000.0;
+  double time_spent = seconds_spent + milliseconds_spent;
+  printf("Time spent searching: %f\n", time_spent);
 
   printf("Searched words found:\n");
   for (int i = 0; i < amount_of_words_to_search; i++) {
