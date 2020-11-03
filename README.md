@@ -6,7 +6,7 @@ Presente neste diretório encontram-se os arquivos pertencentes à solução do 
 - [Versão Sequencial](word_counter.c)
 - [Versão Paralela](word_counter_parallel.c)
 
-O programa varre o primeiro capítulo do livro [Tibetano dos Mortos](https://en.wikipedia.org/wiki/Bardo_Thodol), em sua tradução por Evans-Wentz para o inglês, que pode ser encontrada neste link [aqui](https://www.sacred-texts.com/bud/tib/psydead.htm).
+O programa varre o primeiro capítulo do livro [The Psychedelic Experience](https://en.wikipedia.org/wiki/The_Psychedelic_Experience), que pode ser encontrada neste link [aqui](https://www.sacred-texts.com/bud/tib/psydead.htm). O texto foi escolhido dado a facilidade de formatar o texto do html para o arquivo local.
 
 ## Detalhes da Implementação
 O problema foi resolvido da seguinte forma:
