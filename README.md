@@ -6,7 +6,7 @@ Presente neste diretório encontram-se os arquivos pertencentes à solução do 
 - [Versão Sequencial](word_counter.c)
 - [Versão Paralela](word_counter_parallel.c)
 
-O programa varre o famoso poema The Raven, de Edgar Allan Poe. O arquivo [highhopes](highhopes.h) contém a letra da música High Hopes, de Pink Floyd, caso o usuário queira testar com outro conjunto de dados.
+O programa varre o primeiro capítulo do livro [Tibetano dos Mortos](https://en.wikipedia.org/wiki/Bardo_Thodol), em sua tradução por Evans-Wentz para o inglês, que pode ser encontrada neste link [aqui](https://www.sacred-texts.com/bud/tib/psydead.htm).
 
 ## Detalhes da Implementação
 O problema foi resolvido da seguinte forma:
