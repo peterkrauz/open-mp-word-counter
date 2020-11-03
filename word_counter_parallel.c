@@ -18,12 +18,13 @@ int main(int argc, char *argv[]) {
   pthread_mutex_t occurrences_mutex[] = {};
   char words_to_search[25][25]  = {};
   int words_occurrences[25] = {};
-  int amount_of_words_to_search = argc - 2; // One parameter is ./<exe> and the other is the number of threads
+  int amount_of_words_to_search = 0; // One parameter is ./<exe> and the other is the number of threads
   int number_of_threads = 4;
   if (argc > 1) {
     number_of_threads = atoi(argv[1]);
+    amount_of_words_to_search = argc - 2;
     for (int i = 0; i < amount_of_words_to_search; i++) {
-      strcpy(words_to_search[i], argv[i + 1]);
+      strcpy(words_to_search[i], argv[i + 2]);
       words_occurrences[i] = 0;
     }
     // Dynamically populate mutex array
@@ -32,7 +33,7 @@ int main(int argc, char *argv[]) {
     }
   }
 
-  printf("Using %s threads, words that'll be searched are:\n", number_of_threads);
+  printf("Using %d threads, words that'll be searched are:\n", number_of_threads);
   for (int i = 0; i < amount_of_words_to_search; i++) {
     printf("\033[1;36m %s \033[0m\n", words_to_search[i]);
   }
@@ -49,7 +50,7 @@ int main(int argc, char *argv[]) {
 
   int chunk_size = line_count / number_of_threads;
   int extra_lines = line_count % number_of_threads;
-  
+
   gettimeofday(&start_time, NULL);
   #pragma omp parallel for
   for (int thread_count = 0; thread_count < number_of_threads; thread_count++) {
@@ -59,7 +60,7 @@ int main(int argc, char *argv[]) {
     int end_limit = chunk_size + chunk_offset;
 
     // Initial chunk starts at 0
-    if (thread_number == 0) {
+    if (thread_count == 0) {
       start_limit -= 1;
     }
 
@@ -68,7 +69,12 @@ int main(int argc, char *argv[]) {
       end_limit += extra_lines;
     }
 
-    printf("Thread nº%d searching occurrences in range [%d, %d]\n", thread_count, start_limit, end_limit);
+    printf(
+      "Thread nº%d searching occurrences from line: \n\n %s \n\n to  %s \n",
+      thread_count,
+      lines[start_limit],
+      lines[end_limit]
+    );
     for (int i = start_limit; i < end_limit; i++) {
       char * current_line = lines[i];
 

@@ -42,7 +42,7 @@ O número de palavras-chave (`tapping`, `napping`, `lenore`) não possui limites
 ### Versão Paralela
 Em um terminal qualquer, digite o seguinte trecho para compilar o programa:
 ```
-$ gcc-7 word_counter.c -o <nome_do_output> -pthread
+$ gcc-7 -fopenmp word_counter.c -o <nome_do_output> -pthread
 ```
 Para rodá-lo com palavras-chave, digite:
 ```
