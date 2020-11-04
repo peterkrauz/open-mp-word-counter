@@ -6,12 +6,7 @@ Presente neste diretório encontram-se os arquivos pertencentes à solução do 
 - [Versão Sequencial](word_counter.c)
 - [Versão Paralela](word_counter_parallel.c)
 
-O programa varre os seguintes capítulos do livro [The Psychedelic Experience](https://en.wikipedia.org/wiki/The_Psychedelic_Experience):
-- `I. General Introduction`
-- `II. The Tibetan Book of the Dead`
-  - `The First Bardo: The Period of Ego-Loss or Non-Game Ecstasy`
-
-
+O programa varre o capítulo `I. General Introduction` do livro [The Psychedelic Experience](https://en.wikipedia.org/wiki/The_Psychedelic_Experience).
 O texto foi escolhido dada facilidade em formatar o texto do html para o arquivo local, e pode ser encontrado neste link [aqui](https://www.sacred-texts.com/bud/tib/psydead.htm)
 
 ## Detalhes da Implementação
