@@ -161,4 +161,180 @@ char botd[] = "A psychedelic experience is a journey to new realms of consciousn
               Wentz edition. These are the introduction by Evans-Wentz himself, the\n\
               distinguished translator-editor of four treatises on Tibetan mysticism; the\n\
               commentary by Carl Jung, the Swiss psychoanalyst; and by Lama Govinda,\n\
-              and initiate of one of the principle Buddhist orders of Tibet.\n\0";
+              and initiate of one of the principle Buddhist orders of Tibet.\n\
+              \
+              Part I: The Primary Clear Light Seen At the Moment of Ego-Loss.\n\
+              All individuals who have received the practical teachings of this manual \n\
+              will, if the text be remembered, be set face to face with the ecstatic \n\
+              radiance and will win illumination instantaneously, without entering upon \n\
+              hallucinatory struggles and without further suffering on the age-long \n\
+              pathway of normal evolution which traverses the various worlds of game \n\
+              existence.\n\
+              \
+              This doctrine underlies the whole of the Tibetan model. Faith is the first \n\
+              step on the \"Secret Pathway.\" Then comes illumination and with it certainty; \n\
+              and when the goal is won, emancipation. Success implies very unusual \n\
+              preparation in consciousness expansion, as well as much calm, \n\
+              compassionate game playing (good karma) on the part of the participant. If \n\
+              the participant can be made to see and to grasp the idea of the empty mind \n\
+              as soon as the guide reveals it - that is to say, if he has the power to die \n\
+              consciously - and, at the supreme moment of quitting the ego, can recognize \n\
+              the ecstasy which will dawn upon him then, and become one with it, all \n\
+              game bonds of illusion are broken asunder immediately: the dreamer is \n\
+              awakened into reality simultaneously with the mighty achievement of \n\
+              recognition.\n\
+              \
+              It is best if the guru (spiritual teacher), from whom the participant received\n\
+              guiding instructions, is present, but if the guru cannot be present, then\n\
+              another experienced person; or it the latter is also unavailable, then a\n\
+              person whom the participant trusts should be available to read this manual\n\
+              without imposing any of his own games. Thereby the participant will be put\n\
+              in mind of what he had previously heard of the experience and will at once\n\
+              come to recognize the fundamental Light and undoubtedly obtain liberation.\n\
+              \
+              Liberation is the nervous system devoid of mental-conceptual activity.\n\
+              [Realization of the Voidness, the Unbecome, the Unborn, the Unmade, the\n\
+              Unformed, implies Buddhahood, Perfect Enlightenment - the state of the\n\
+              divine mind of the Buddha. It may be helpful to remember that this ancient\n\
+              doctrine is not in conflict with modern physics. The theoretical physicist\n\
+              and cosmologist, George Gamow, presented in 1950 a viewpoint which is\n\
+              close to the phenomenological experience described by the Tibetan lamas.\n\
+              \
+              If we imagine history running back in time, we inevitably come to the epoch\n\
+              of the \"big squeeze\" with all the galaxies, stars, atoms and atomic nuclei\n\
+              squeezed, so to speak, to a pulp. During that early stage of evolution, matter\n\
+              must have been dissociated into its elementary components. . . . We call this\n\
+              primordial mixture ylem.\n\
+              \
+              At this first point in the evolution of the present cycle, according to this\n\
+              first-rank physicist, there existed only the Unbecome, the Unborn, the\n\
+              Unformed. And this, according to astrophysicists, is the way it will end; the\n\
+              silent unity of the Unformed. The Tibetan Buddhists suggest that the\n\
+              uncluttered intellect can experience what astrophysics confirms. The\n\
+              Buddha Vairochana, the Dhyani Buddha of the Center, Manifester of\n\
+              Phenomena, is the highest path to enlightenment. As the source of all\n\
+              organic life, in him all things visible and invisible have their consummation\n\
+              and absorption. He is associated with the Central Realm of the Densely-\n\
+              Packed, i.e., the seed of all universal forces and things are densely packed\n\
+              together. This remarkable convergence of modern astrophysics and ancient\n\
+              lamaism demands no complicated explanation. The cosmological awareness-\n\
+              and awareness of every other natural process- is there in the cortex. You can\n\
+              confirm this preconceptual mystical knowledge by empirical observation and\n\
+              measurement, but it's all there inside your skull. Your neurons \"know\"\n\
+              because they are linked directly to the process, are part of it.] The mind in\n\
+              its conditioned state, that is to say, when limited to words and ego games,\n\
+              is continuously in thought-formation activity. The nervous system in a state\n\
+              of quiescence, alert, awake but not active is comparable to what Buddhists\n\
+              call the highest state of dhyana (deep meditation) when still united to a\n\
+              human body. The conscious recognition of the Clear Light induces an ecstatic\n\
+              condition of consciousness such as saints and mystics of the West have\n\
+              called illumination.\n\
+              \
+              The first sign is the glimpsing of the \"Clear Light of Reality,\" the infallible\n\
+              mind of the pure mystic state. This is the awareness of energy\n\
+              transformations with no imposition of mental categories.\n\
+              \
+              The duration of this state varies with the individual. It depends upon\n\
+              experience, security, trust, preparation and the surroundings. In those who\n\
+              have had even a little practical experience of the tranquil state of non-game\n\
+              awareness, and in those who have happy games, this state can last from\n\
+              thirty minutes to several hours.\n\
+              \
+              In this state, realization of what mystics call the \"Ultimate Truth\" is\n\
+              possible, provided that sufficient preparation has been made by the person\n\
+              beforehand. Otherwise he cannot benefit now, and must wander on into\n\
+              lower and lower conditions of hallucinations, as determined by his past\n\
+              games, until he drops back to routine reality.\n\
+              \
+              It is important to remember that the conscious-expansion process is the\n\
+              reverse of the birth process, birth being the beginning of game life and the\n\
+              ego-loss experience being a temporary ending of game life. But in both there\n\
+              is a passing from one state of consciousness into another. And just as an\n\
+              infant must wake up and learn from experience the nature of this world, so\n\
+              likewise a person at the moment of consciousness expansion must wake up\n\
+              in this new brilliant world and become familiar with its own peculiar\n\
+              conditions.\n\
+              \
+              In those who are heavily dependent on their ego games, and who dread\n\
+              giving up their control, the illuminated state endures only so long as it\n\
+              would take to snap a finger. In some, it lasts as long as the time taken for\n\
+              eating a meal.\n\
+              \
+              If the subject is prepared to diagnose the symptoms of ego loss, he needs no\n\
+              outside help at this point. Not only should the person about to give up his\n\
+              ego be able to diagnose the symptoms as they come, one by one, but he\n\
+              should also be able to recognize the Clear Light without being set face to\n\
+              face with it by another person. If the person fails to recognize and accept\n\
+              the onset of ego loss, he may complain of strange bodily symptoms. This\n\
+              shows that he has not reached a liberated state. Then the guide or friend\n\
+              should explain the symptoms as indicating the onset of ego loss.\n\
+              \
+              Here is a list of commonly reported physical sensations:\n\
+              \
+              1. Bodily pressure, which the Tibetans call earth-sinking-into-water,\n\
+              2. Clammy coldness, followed by feverish heat, which the Tibetans call\n\
+              water-sinking-into-fire,\n\
+              3. Body disintegrating or blown to atoms, called fire-sinking-into-air,\n\
+              4. Pressure on head and ears, which Americans call rocket-launching-into-\n\
+              space,\n\
+              5. Tingling in extremities,\n\
+              6. Feelings of body melting or flowing as if wax,\n\
+              7. Nausea,\n\
+              8. Trembling or shaking, beginning in pelvic regions and spreading up torso.\n\
+              \
+              These physical reactions should be recognized as signs heralding\n\
+              transcendence. Avoid treating them as symptoms of illness, accept them,\n\
+              merge with them, enjoy them.\n\
+              \
+              Mild nausea occurs often with the ingestion of morning-glory seeds or\n\
+              peyote, rarely with mescaline and infrequently with LSD or psilocybin. If the\n\
+              subject experiences stomach messages, they should be hailed as a sign that\n\
+              consciousness is moving around in the body. The symptoms are mental; the\n\
+              mind controls the sensation, and the subject should merge with the\n\
+              sensation, experience it fully, enjoy it and, having enjoyed it, let\n\
+              consciousness flow on to the next phase. It is usually more natural to let\n\
+              consciousness stay in the body - the subject's attention can move from the\n\
+              stomach and concentrate on breathing, heart beat. If this does not free him\n\
+              from nausea, the guide should move the consciousness to external events -\n\
+              music, walking in the garden, etc.\n\
+              \
+              The appearance of physical symptoms of ego-loss, recognized and\n\
+              understood, should result in peaceful attainment of illumination. If ecstatic\n\
+              acceptance does not occur (or when the period of peaceful silence seems to\n\
+              be ending), the relevant sections of the instructions can be spoken in a low\n\
+              tone of voice in the ear. It is often useful to repeat them distinctly, clearly\n\
+              impressing them upon the person so as to prevent his mind from wandering.\n\
+              Another method of guiding the experience with a minimum of activity is to\n\
+              have the instructions previously recorded in the subject's own voice and to\n\
+              flip the tape on at the appropriate moment. The reading will recall to the\n\
+              mind of the voyager the former preparation; it will cause the naked\n\
+              consciousness to be recognized as the \"Clear Light of the Beginning;\" it will\n\
+              remind the subject of his unity with this state of perfect enlightenment and\n\
+              help him to maintain it.\n\
+              \
+              If, when undergoing ego-loss, one is familiar with this state, by virtue of\n\
+              previous experience and preparation, the Wheel of Rebirth (i.e., all game\n\
+              playing) is stopped, and liberation instantaneously is achieved. But such\n\
+              spiritual efficiency is so very rare, that the normal mental condition of the\n\
+              person is unequal to the supreme feat of holding on to the state in which the\n\
+              Clear Light shines; and there follows a progressive descent into lower and\n\
+              lower states of the Bardo existence, and then rebirth. The simile of a needle\n\
+              balanced and set rolling on a thread is used by the lamas to elucidate this\n\
+              condition. So long as the needle retains its balance, it remains on the thread.\n\
+              Eventually, however, the law of gravitation (the pull of the ego or external\n\
+              stimulation) affects it, and it falls. In the realm of the Clear Light,\n\
+              similarly, the mentality of a person in the ego-transcendent state\n\
+              momentarily enjoys a condition of balance, of perfect equilibrium, and of\n\
+              oneness. Unfamiliar with such a state, which is an ecstate state of non-ego,\n\
+              the consciousness of the average human being lacks the power to function in\n\
+              it. Karmic (i.e., game) propensities becloud the consciousness-principle with\n\
+              thoughts of personality, of individualized being, of dualism. Thus, losing\n\
+              equilibrium, consciousness falls away from the Clear Light. It is thought\n\
+              processes which prevent the realization of Nirvana (which is the \"blowing\n\
+              out of the flame\" of selfish game desire); and so the Wheel of Life continues\n\
+              to turn.\n\
+              \
+              All or some of the appropriate passages in the instructions may be read to\n\
+              the voyager during the period of waiting for the drug to take effect, and\n\
+              when the first symptoms of ego-loss appear. When the voyager is clearly in\n\
+              a profound ego-transcendent ecstasy, the wise guide will remain silent.\n\0";
