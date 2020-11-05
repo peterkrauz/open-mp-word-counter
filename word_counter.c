@@ -23,7 +23,7 @@ int main(int argc, char *argv[]) {
 
   // Build array of lines
   int line_count = 0;
-  char lines[200][200] = {};
+  char lines[TEXT_SIZE][LINE_SIZE] = {};
   char * line = strtok(botd, "\n");
   while(line != NULL) {
     strcpy(lines[line_count], line);
