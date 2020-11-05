@@ -10,7 +10,7 @@ O programa varre os seguintes capítulos do livro [The Psychedelic Experience](h
 - `I. General Introduction`
 - `II. The Tibetan Book of the Dead`
  - `First Bardo: The Period of Ego-Loss or Non-Game Ecstasy`
- 
+
 O texto foi escolhido dada facilidade em formatar o texto do html para o arquivo local, e pode ser encontrado neste link [aqui](https://www.sacred-texts.com/bud/tib/psydead.htm)
 
 ## Detalhes da Implementação
@@ -47,7 +47,7 @@ O número de palavras-chave (`lama`, `guru`, `tibet`) não possui limites, porta
 ### Versão Paralela
 Em um terminal qualquer, digite o seguinte trecho para compilar o programa:
 ```
-$ gcc-7 -fopenmp word_counter.c -o <nome_do_output> -pthread
+$ gcc-7 -fopenmp word_counter_parallel.c -o <nome_do_output> -pthread
 ```
 Para rodá-lo com palavras-chave, digite:
 ```
