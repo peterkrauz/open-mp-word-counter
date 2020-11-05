@@ -15,14 +15,13 @@ struct timeval start_time, end_time;
 int main(int argc, char *argv[]) {
   printf("\033[1;31mOpenMP Word Counter\033[0m\n");
 
-  pthread_mutex_t occurrences_mutex[] = {};
+  pthread_mutex_t occurrences_mutex[50] = {};
   char words_to_search[10][10]  = {};
   int words_occurrences[25] = {};
   int amount_of_words_to_search = 0;
   int number_of_threads = 4;
   if (argc > 1) {
     number_of_threads = atoi(argv[1]);
-    printf("Numb: %d\n", number_of_threads);
     amount_of_words_to_search = argc - 2; // One parameter is ./<exe> and the other is the number of threads
     for (int i = 0; i < amount_of_words_to_search; i++) {
       strcpy(words_to_search[i], argv[i + 2]);
@@ -76,12 +75,6 @@ int main(int argc, char *argv[]) {
       end_limit += extra_lines;
     }
 
-    printf(
-      "Thread nº%d searching occurrences from line: \n\n %s \n\n to  %s \n",
-      thread_count,
-      lines[start_limit],
-      lines[end_limit]
-    );
     for (int i = start_limit; i < end_limit; i++) {
       char * current_line = lines[i];
 
