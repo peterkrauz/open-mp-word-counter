@@ -16,13 +16,14 @@ int main(int argc, char *argv[]) {
   printf("\033[1;31mOpenMP Word Counter\033[0m\n");
 
   pthread_mutex_t occurrences_mutex[] = {};
-  char words_to_search[25][25]  = {};
+  char words_to_search[10][10]  = {};
   int words_occurrences[25] = {};
-  int amount_of_words_to_search = 0; // One parameter is ./<exe> and the other is the number of threads
+  int amount_of_words_to_search = 0;
   int number_of_threads = 4;
   if (argc > 1) {
     number_of_threads = atoi(argv[1]);
-    amount_of_words_to_search = argc - 2;
+    printf("Numb: %d\n", number_of_threads);
+    amount_of_words_to_search = argc - 2; // One parameter is ./<exe> and the other is the number of threads
     for (int i = 0; i < amount_of_words_to_search; i++) {
       strcpy(words_to_search[i], argv[i + 2]);
       words_occurrences[i] = 0;
@@ -35,8 +36,14 @@ int main(int argc, char *argv[]) {
 
   printf("Using %d threads, words that'll be searched are:\n", number_of_threads);
   for (int i = 0; i < amount_of_words_to_search; i++) {
-    printf("\033[1;36m %s \033[0m\n", words_to_search[i]);
+    printf("\033[1;36m%s\033[0m", words_to_search[i]);
+    if (i == amount_of_words_to_search -1) {
+      printf(".");
+    } else {
+      printf(", ");
+    }
   }
+  printf("\n");
 
   // Sequentially build array of lines
   int line_count = 0;
@@ -96,13 +103,19 @@ int main(int argc, char *argv[]) {
   double seconds_spent = end_time.tv_sec - start_time.tv_sec;
   double milliseconds_spent =  (end_time.tv_usec - start_time.tv_usec)/1000000.0;
   double time_spent = seconds_spent + milliseconds_spent;
-  printf("Time spent searching: %f\n", time_spent);
+  printf("Time spent searching: \033[1;35m%f\033[0m\n", time_spent);
 
   printf("Searched words found:\n");
   for (int i = 0; i < amount_of_words_to_search; i++) {
     char * word_searched = words_to_search[i];
     int number_of_occurrences = words_occurrences[i];
-    printf("\033[1;36m%s\033[0m found \033[1;35m%d\033[0m times\n", word_searched, number_of_occurrences);
+    printf("\033[1;36m%s\033[0m found \033[1;35m%d\033[0m times", word_searched, number_of_occurrences);
+    if (i == amount_of_words_to_search - 1) {
+      printf(".");
+    } else {
+      printf(", ");
+    }
   }
+  printf("\n");
   return 0;
 }
