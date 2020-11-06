@@ -163,6 +163,8 @@ char botd[] = "A psychedelic experience is a journey to new realms of consciousn
               commentary by Carl Jung, the Swiss psychoanalyst; and by Lama Govinda,\n\
               and initiate of one of the principle Buddhist orders of Tibet.\n\
               \
+              Part I: The Primary Clear Light Seen At the Moment of Ego-Loss.\n\
+              \
               All individuals who have received the practical teachings of this manual \n\
               will, if the text be remembered, be set face to face with the ecstatic \n\
               radiance and will win illumination instantaneously, without entering upon \n\
@@ -170,7 +172,7 @@ char botd[] = "A psychedelic experience is a journey to new realms of consciousn
               pathway of normal evolution which traverses the various worlds of game \n\
               existence.\n\
               \
-              This doctrine underlies the whole of the Tibetan model. Faith is the first\n\
+              This doctrine underlies the whole of the Tibetan model. Faith is the first \n\
               step on the \"Secret Pathway.\" Then comes illumination and with it certainty; \n\
               and when the goal is won, emancipation. Success implies very unusual \n\
               preparation in consciousness expansion, as well as much calm, \n\
@@ -178,7 +180,7 @@ char botd[] = "A psychedelic experience is a journey to new realms of consciousn
               the participant can be made to see and to grasp the idea of the empty mind \n\
               as soon as the guide reveals it - that is to say, if he has the power to die \n\
               consciously - and, at the supreme moment of quitting the ego, can recognize \n\
-              the ecstasy which will dawn upon him then, and become one with it, all\n\
+              the ecstasy which will dawn upon him then, and become one with it, all \n\
               game bonds of illusion are broken asunder immediately: the dreamer is \n\
               awakened into reality simultaneously with the mighty achievement of \n\
               recognition.\n\
@@ -202,7 +204,7 @@ char botd[] = "A psychedelic experience is a journey to new realms of consciousn
               If we imagine history running back in time, we inevitably come to the epoch\n\
               of the \"big squeeze\" with all the galaxies, stars, atoms and atomic nuclei\n\
               squeezed, so to speak, to a pulp. During that early stage of evolution, matter\n\
-              must have been dissociated into its elementary components... We call this\n\
+              must have been dissociated into its elementary components. . . . We call this\n\
               primordial mixture ylem.\n\
               \
               At this first point in the evolution of the present cycle, according to this\n\
@@ -336,187 +338,4 @@ char botd[] = "A psychedelic experience is a journey to new realms of consciousn
               All or some of the appropriate passages in the instructions may be read to\n\
               the voyager during the period of waiting for the drug to take effect, and\n\
               when the first symptoms of ego-loss appear. When the voyager is clearly in\n\
-              a profound ego-transcendent ecstasy, the wise guide will remain silent.\n\
-              \
-              The preceding section describes how the Clear Light may be recognized and\n\
-              liberation maintained. But if it becomes apparent that the Primary Clear\n\
-              Light has not been recognized, then it can certainly be assumed there is\n\
-              dawning what is called the phase of the Secondary Clear Light. The first\n\
-              flash of experience usually produces a state of ecstasy of the greatest\n\
-              intensity. Every cell in the body is sensed as involved in orgastic creativity.\n\
-              \
-              It may be helpful to describe in more detail some of the phenomena which\n\
-              often accompany the moment of ego-loss. One of these might be called \"wave\n\
-              energy flow.\" The individual becomes aware that he is part of and\n\
-              surrounded by a charged field of energy, which seems almost electrical. In\n\
-              order to maintain the ego-loss state as long as possible, the prepared person\n\
-              will relax and allow the forces to flow through him. There are two dangers\n\
-              to avoid: the attempt to control or to rationalize this energy flow. Either of\n\
-              these reactions is indicative of ego-activity and the First Bardo\n\
-              transcendence is lost.\n\
-              \
-              The second phenomenon might be called \"biological life-flow.\" Here the\n\
-              person becomes aware of physiological and biochemical processes; rhythmic\n\
-              pulsing activity within the body. Often this may be sensed as powerful\n\
-              motors or generators continously throbbing and radiating energy. An endless\n\
-              flow of cellular forms and colors flashes by. Internal biological processes\n\
-              may also be heard with characteristic swooshing, crackling, and pounding\n\
-              noises. Again the person must resist the temptation to label or control these\n\
-              processes. At this point you are tuned in to areas of the nervous system\n\
-              which are inaccessible to routine perception. You cannot drag your ego into\n\
-              the molecular processes of life. These processes are a billion years older\n\
-              than the learned conceptual mind.\n\
-              \
-              Another typical and most rewarding phase of the First Bardo involves\n\
-              ecstatic energy movement felt in the spine. The base of the backbone seems\n\
-              to be melting or seems on fire. If the person can maintain quiet\n\
-              concentration the energy will be sensed as flowing upwards. Tantric adepts\n\
-              devote decades of concentrated meditation to the release of these ecstatic\n\
-              energies which they call Kundalini, the Serpent Power. One allows the\n\
-              energies to travel upwards through several ganglionic centers (chakras) to\n\
-              the brain, where they are sensed as a burning sensation in the top of the\n\
-              cranium. These sensations are not unpleasant to the prepared person, but, on\n\
-              the contrary, are accompanied by the most intense feelings of joy and\n\
-              illumination. Ill-prepared subjects may interpret the experience in\n\
-              pathological terms and attempt to control it, usually with unpleasant\n\
-              results. [Professor R. C. Zaehner, who as an Oriental scholar and \"expert\" on\n\
-              mysticism should have know better, has published an account of how this\n\
-              prized experience can be lost and distorted into hypochondriacal complaint\n\
-              in the ill-educated.\n\
-              \
-              . . . I had a curious sensation in my body which reminded me of what Mr.\n\
-              Custance describes as a \"tingling at the base of the spine,\" which according\n\
-              to him, usually precedes a bout of mania. It was rather like that. In the\n\
-              Broad Walk this sensation occurred again and again until the climax of the\n\
-              experiment was reached . . . I did not like it at all.\n\
-              \
-              (R. C. Zaehner: Mysticism, Sacred and Profane. Oxford Univ. Press, 1957, p.214)\n\
-              \
-              If the subjects fails to recognize the rushing flow of First Bardo phnomena,\n\
-              liberation from the ego is lost. The person finds himself slipping back into\n\
-              mental activities. At this point he should try to recall the instructions or be\n\
-              reminded of them, and a second contact with these processes can be made.\n\
-              \
-              The second stage is less intense. A ball set bouncing reaches its greatest\n\
-              height at the first bounce; the second bounce is lower, and each succeeding\n\
-              bounce is still lower until the ball comes to rest. The consciousness at the\n\
-              loss of the ego is similar to this. Its first spiritual bound, directly upon\n\
-              leaving the body-ego, is the highest; the next is lower. Then the force of\n\
-              karma, (i.e., past game-playing), takes over and different forms of external\n\
-              reality are experienced. Finally, the force of karma having spent itself,\n\
-              consciousness returns to \"normal.\" Routines are taken up again and thus\n\
-              rebirth occurs.\n\
-              \
-              The first ecstasy usually ends with a momentary flashback to the ego\n\
-              condition. This return can be happy or sad, loving or suspicious, fearful or\n\
-              courageous, depending on the personality, the preparation, and the setting.\n\
-              \
-              This flashback to the ego-game is accompanied by a concern with identity.\n\
-              \"Who am I now? Am I dead or not dead? What is happening?\" You cannot\n\
-              determine. You see the surroundings and your companions as you had been\n\
-              used to seeing them before. There is a penetrating sensitivity. But you are on\n\
-              a different level. Your ego grasp is not quite as sure as it was.\n\
-              \
-              The karmic hallucinations and visions have not yet started. Neither the\n\
-              frightening apparitions nor the heavenly visions have begun. This is a most\n\
-              sensitive and pregnant period. The remainder of the experience can be\n\
-              pushed one way or another depending upon preparation and emotional\n\
-              climate.\n\
-              \
-              If you are experienced in consciousness alteration, or if you are a naturally\n\
-              introverted person, remember the situation and the schedule. Stay calm and\n\
-              let the experience take you where it will. You will probably re-experience\n\
-              the ecstasy of illumination once again; or you may drift into aesthetic or\n\
-              philosophic or interpersonal enlightenments. Don't hold on: let the stream\n\
-              carry you along.\n\
-              \
-              The experienced person is usually beyond dependence on setting. He can\n\
-              turn off external pressure and return to illumination. An extroverted person,\n\
-              dependent upon social games and outside situations may, however, become\n\
-              pleasantly distracted (colors, sounds, people). If you anticipate extroverted\n\
-              distraction and if you want to maintain a non-game state of ecstasy, then\n\
-              remember the following suggestions: do not be distracted; try to\n\
-              concentrate on an ideal contemplative personage, e.g., Buddha, Christ,\n\
-              Socrates, Ramakrishna, Einstein, Herman Hesse or Lao Tse: follow his model\n\
-              as if he were a being with a physical body waiting for you. Join him.\n\
-              \
-              If this is not successful, don't fret or think about it. Perhaps you don't have\n\
-              a mystical or transcendental ideal. That means your conceptual limits are\n\
-              within external games. Now that you know what the mystic experience is,\n\
-              you can prepare for it next time. You have lost the content-free flow and\n\
-              should now be ready to slip into exciting confrontation with external\n\
-              reality. In the Second Bardo you can reash and deeply experience game\n\
-              revelations.\n\
-              \
-              We have just anticipated the reactions of the naturally mystical introvert,\n\
-              the experienced person, and the extrovert. Now let's turn to the novitiate\n\
-              who shows confusion at this early stage of the sequence. The best procedure\n\
-              is to make a reassuring sign and do nothing. He will have read this manual\n\
-              and will have some guidepost. Leave him alone and he will probably dive\n\
-              into his panic and master it. If he indicates that he wishes guidance, repeat\n\
-              the instructions. Tell him what is happening. Remind him of his phase in the\n\
-              process. Urge him quietly to release his ego struggle and drift back into\n\
-              contact with the Clear Light.\n\
-              \
-              Preparation and guidance of this sort will allow many to reach the\n\
-              illuminated state who would not be expected to recognize it.\n\
-              \
-              At this point, it is necessary to inject a word of benign warning. Reading\n\
-              this manual is extremely useful, but no words can communicate experience.\n\
-              You are going to be surprised, startled and delighted. A person may have\n\
-              heard a detailed description of the art of swimming and yet never had the\n\
-              chance to swim. Suddenly diving into the water, he finds himself unable to\n\
-              swim. So with those who have tried to learn the theory of how to experience\n\
-              ego-loss, and have never applied it. They cannot maintain unbroken\n\
-              continuity of consciousness, they grow bewildered at the changed condition;\n\
-              they fail to maintain the mystical ecstasy; they fail to take advantage of\n\
-              the opportunity unless upheld and directed by a guide. Even with all that a\n\
-              guide can do, they ordinarily, because of bad karma (heavy ego games) fail to\n\
-              recognize the liberation. But this is no cause for worry. At the worst, they\n\
-              just slip back to shore. No one has drowned, and most of those who have\n\
-              taken the voyage have been eager to try again.\n\
-              \
-              Even those who have familiarized themselves with the road maps and who\n\
-              previously have had illumination, may find themselves in settings where\n\
-              heavy game behavior on the part of others forces them into contact with\n\
-              external reality. If this happens, recall the instructions. The person who\n\
-              masters this principle can block out the external. The one who has mastered\n\
-              control of consciousness is independent of setting.\n\
-              \
-              Again there are those, who although previously successful, may have\n\
-              brought ego games into the session with them. They may want to provide\n\
-              someone else with a particular type of experience. They may be promoting\n\
-              some self goal. They may be nurturing negative or competitive or seductive\n\
-              feelings towards someone in the session. If this happens, recall the\n\
-              instructions. Remember the unity of all beings. One to me is shame and fame.\n\
-              One to me is loss or gain. Jettison your ego program and float back to the\n\
-              radiant bliss of at-one-ness.\n\
-              \
-              If you reach the Clear Light immediately and maintain it, that is best. But if\n\
-              not, if you have slipped down to reality concerns, by remembering these\n\
-              instructions you should be able to regain what the Tibetans call the\n\
-              Secondary Clear Light.\n\
-              \
-              While on this secondary level, an interesting dialogue occurs between pure\n\
-              transcendence and the awareness that this ecstatic vision is happening to\n\
-              oneself. The first radiance knows no self, no concepts. The secondary\n\
-              experience involves a certain state of conceptual lucidity. The knowing self\n\
-              hovers within that transcendent terrain from which it is usually barred. If\n\
-              the instructions are remembered, external reality will not intrude. But the\n\
-              flashing in and out between pure ego-less unity, and lucid, non-game\n\
-              selfhood, produces an intellectual ecstasy and understanding that defies\n\
-              description. Previous philosophic reading will suddenly take on living\n\
-              meaning.\n\
-              \
-              Thus in this secondary stage of the First Bardo, there is possible both the\n\
-              mystic non-self and the mystic self experience.\n\
-              \
-              After you have experienced these two states, you may wish to pursue this\n\
-              distinction intellectually. We are confronted here with one of the oldest\n\
-              debates in Eastern philosophy. Is it better to be part of the sugar or to taste\n\
-              the sugar? Theological controversies and their dualities are far removed\n\
-              from experience. Thanks to the experimental mysticism made possible by\n\
-              consciousness-expanding drugs, you may have been lucky enough to have\n\
-              experienced the flashing back and forth between the two states. You may be\n\
-              lucky enough to know what the academic monks could only think about.\n\
-              \0";
+              a profound ego-transcendent ecstasy, the wise guide will remain silent.\n\0";
